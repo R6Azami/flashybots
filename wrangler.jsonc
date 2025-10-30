@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "flashybots",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "APP DATABASE",
+      "database_id": "6fbc754a-1ea7-4396-a585-5451dfba2304"
+    }
+  ]
+}
